@@ -289,7 +289,6 @@ builder.Services.AddCors(options =>
             .AllowAnyMethod();
     });
 });
-```
 
 var app = builder.Build();
 
@@ -311,6 +310,7 @@ app.UseCors("AllowAngular");
 app.UseMiddleware<AuthenMiddleware>();
 app.UseMvc();
 app.Run();
+```
 
 # Interview-Test.Client (Frontend Angular)
 
