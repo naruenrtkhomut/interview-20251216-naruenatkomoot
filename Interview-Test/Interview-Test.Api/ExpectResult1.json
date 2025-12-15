@@ -1,0 +1,33 @@
+﻿{
+  "id": "02CE43A4-A378-4B30-B52E-227EFA6B696E",
+  "userId": "user01",
+  "username": "John.D.Smith",
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": null,
+  "roles": [
+    {
+      "roleId": 1,
+      "roleName": "pick operation"
+    },
+    {
+      "roleId": 2,
+      "roleName": "pack operation"
+    },
+    {
+      "roleId": 3,
+      "roleName": "document operation"
+    }
+  ],
+  "permissions": [
+    "1-01-picking-info",
+    "1-02-picking-start",
+    "1-03-picking-confirm",
+    "1-04-picking-report",
+    "2-01-packing-info",
+    "2-02-packing-start",
+    "2-03-packing-confirm",
+    "2-04-packing-report",
+    "3-01-printing-label"
+  ]
+}

@@ -1,0 +1,19 @@
+﻿{
+  "id": "F90810B6-E017-431A-9DAE-A4BA7F9BC865",
+  "userId": "user02",
+  "username": "Bob.M.Jackson",
+  "firstName": "Bob",
+  "lastName": "Jackson",
+  "age": 28,
+  "roles": [
+    {
+      "roleId": 3,
+      "roleName": "document operation"
+    }
+  ],
+  "permissions": [
+    "1-04-picking-report",
+    "2-04-packing-report",
+    "3-01-printing-label"
+  ]
+}

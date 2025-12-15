@@ -1,0 +1,9 @@
+@Interview_Test.GatewayApi_HostAddress = https://localhost:44375/gateway
+
+GET {{Interview_Test.GatewayApi_HostAddress}}/swagger/index.html
+Accept: application/json
+###
+
+GET {{Interview_Test.GatewayApi_HostAddress}}/api/User/GetUserById/user01
+Accept: application/json
+###

@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|solutionrelative:interview-test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|solutionrelative:interview-test.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|solutionrelative:interview-test.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.api\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|solutionrelative:interview-test.api\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.infrastructure\\models\\permissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|solutionrelative:interview-test.infrastructure\\models\\permissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.infrastructure\\models\\userrolemappingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|solutionrelative:interview-test.infrastructure\\models\\userrolemappingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.api\\repositories\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922937E-938E-48B4-A7C7-C5E38B4044BE}|Interview-Test.Api\\Interview-Test.Api.csproj|solutionrelative:interview-test.api\\repositories\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.infrastructure\\models\\userprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|solutionrelative:interview-test.infrastructure\\models\\userprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.infrastructure\\interviewtestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|solutionrelative:interview-test.infrastructure\\interviewtestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.infrastructure\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|solutionrelative:interview-test.infrastructure\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|e:\\project\\finkub test\\20251214\\interview-test-main\\interview-test-main\\interview-test\\interview-test.infrastructure\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9991AC-6D2A-4B83-A9CE-B85A0AA95786}|Interview-Test.Infrastructure\\Interview-Test.Infrastructure.csproj|solutionrelative:interview-test.infrastructure\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Api\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interview-Test.Api\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:50:36.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfileModel.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\UserProfileModel.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Infrastructure\\Models\\UserProfileModel.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\UserProfileModel.cs",
+              "RelativeToolTip": "Interview-Test.Infrastructure\\Models\\UserProfileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:30:59.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Repositories\\Data.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Api\\Repositories\\Data.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Repositories\\Data.cs",
+              "RelativeToolTip": "Interview-Test.Api\\Repositories\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:26:24.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionModel.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\PermissionModel.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Infrastructure\\Models\\PermissionModel.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\PermissionModel.cs",
+              "RelativeToolTip": "Interview-Test.Infrastructure\\Models\\PermissionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:52:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRoleMappingModel.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\UserRoleMappingModel.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Infrastructure\\Models\\UserRoleMappingModel.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\UserRoleMappingModel.cs",
+              "RelativeToolTip": "Interview-Test.Infrastructure\\Models\\UserRoleMappingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:52:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Infrastructure\\Models\\RoleModel.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\RoleModel.cs",
+              "RelativeToolTip": "Interview-Test.Infrastructure\\Models\\RoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:51:49.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Api\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Interview-Test.Api\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:37:52.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Infrastructure\\Models\\UserModel.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\Models\\UserModel.cs",
+              "RelativeToolTip": "Interview-Test.Infrastructure\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:21:20.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Api\\Program.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Program.cs",
+              "RelativeToolTip": "Interview-Test.Api\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:05:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterviewTestDbContext.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\InterviewTestDbContext.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Infrastructure\\InterviewTestDbContext.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Infrastructure\\InterviewTestDbContext.cs",
+              "RelativeToolTip": "Interview-Test.Infrastructure\\InterviewTestDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:58:03.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Interview-Test.Api\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Project\\Finkub test\\20251214\\Interview-Test-main\\Interview-Test-main\\Interview-Test\\Interview-Test.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Interview-Test.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:57:14.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

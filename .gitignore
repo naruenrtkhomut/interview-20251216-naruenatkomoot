@@ -1,0 +1,10 @@
+Interview-Test\Interview-Test.Api\bin
+Interview-Test\Interview-Test.Api\obj
+Interview-Test\Interview-Test.GatewayApi\bin
+Interview-Test\Interview-Test.GatewayApi\obj
+Interview-Test\Interview-Test.Infrastructure\bin
+Interview-Test\Interview-Test.Infrastructure\objInterview-Test\.vs/
+Interview-Test\.vscode/
+Interview-Test\node_modules/
+Interview-Test\dist/
+Interview-Test\*.user

@@ -1,0 +1,11 @@
+@Interview_Test_HostAddress = https://localhost:44307
+
+### Test Expect Result 1
+GET {{Interview_Test_HostAddress}}/api/User/GetUserById/user01/
+Accept: application/json
+
+### Test Expect Result 2
+GET {{Interview_Test_HostAddress}}/api/User/GetUserById/user02/
+Accept: application/json
+
+###

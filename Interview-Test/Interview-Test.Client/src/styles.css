@@ -1,0 +1,10 @@
+﻿/* Global styles */
+:root { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji"; }
+body { margin: 0; }
+header { background:#0c4a6e; color:white; padding: .75rem 1rem; }
+.container { padding: 1rem; max-width: 1100px; margin: 0 auto; }
+.table { width:100%; border-collapse: collapse; }
+.table th, .table td { border: 1px solid #ddd; padding: .5rem .6rem; }
+.table th { background: #f5f5f5; text-align: left; }
+input[type="text"], input[type="search"] { padding: .5rem; border:1px solid #ccc; border-radius: 4px; }
+.badge { display:inline-block; padding: .1rem .5rem; background:#eef; border:1px solid #ccd; border-radius: 3px; margin-right: .25rem; }
