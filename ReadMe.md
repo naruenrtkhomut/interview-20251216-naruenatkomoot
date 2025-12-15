@@ -235,14 +235,14 @@ to  forward the client request to `Interview-Test.Api(https://localhost:44307)` 
 
 - Implement screen Users List
 
-![Example Users List screen](../Interview-Test/Interview-Test.Client/src/assets/list.png)
+![Example Users List screen](Interview-Test/Interview-Test.Client/src/assets/list.png)
 
-![Client test Users List screen](../Interview-Test/Interview-Test.Client/src/assets/test-list.png)
+![Client test Users List screen](Interview-Test/Interview-Test.Client/src/assets/test-list.png)
 
 
 - Implement screen Users Detail 
 
-![Example Users Detail screen](../Interview-Test/Interview-Test.Client/src/assets/detail.png)
-![Client test Users Detail screen](../Interview-Test/Interview-Test.Client/src/assets/test-detail.png)
+![Example Users Detail screen](Interview-Test/Interview-Test.Client/src/assets/detail.png)
+![Client test Users Detail screen](Interview-Test/Interview-Test.Client/src/assets/test-detail.png)
 
 - Connect data from API Gateway Ocelot.
