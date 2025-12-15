@@ -43,7 +43,7 @@ and return `401 Unauthorized` if the `x-api-key` is invalid.
 - Implement design database schema by using `Code-First and automated migration` approach in [InterviewTestDbContext.cs](#question) file to your database for the following requirement:
   - User can have multiple roles.
   - Role can have multiple permissions.
-
+```csharp
 protected override void OnModelCreating(ModelBuilder modelBuilder)
 {
     base.OnModelCreating(modelBuilder);
@@ -90,12 +90,14 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
           .OnDelete(DeleteBehavior.Cascade);
     });
 }
+```
 
 **Important Note:** Please use `SQL Server` for your database schema design.
 
 - Implement method `CreateUser` in [UserRepository.cs](#question) file and return affected row when execute `SaveChanges()` 
 to create a new user by using `Entity Framework` and to create the user please use the data from `Data.cs` file.
 
+```csharp
 public class UserRepository : IUserRepository
 {
     private readonly InterviewTestDbContext _interviewTestDbContext;
@@ -138,7 +140,7 @@ public class UserRepository : IUserRepository
                  .ToListAsync();
     }
 }
-
+```
 - Implement method `GetUserById` in [UserRepository.cs](#question) file by using `Linq` to return the model similar to the `ExpectResult1.json` and `ExpectResult2.json`
 as following:
 
