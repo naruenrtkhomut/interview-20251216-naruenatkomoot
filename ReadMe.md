@@ -388,6 +388,36 @@ interface User {
   userRoleMappings: MapRole[];
 }
 ```
+``` html
+<h1>Users</h1>
+<input type="search" name="searchUser" id="searchUser" placeholder="Search by id, userId, username, name" style="width: 50%;" (input)="searchUser($event)">
+<table style="width: 100%;">
+    <thead style="text-align: left; background-color: rgb(96, 96, 93); color: white; font-size: 20px;">
+        <tr style="text-align: left;">
+            <th>UserId</th>
+            <th>Username</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>#Roles</th>
+            <th>#Permissions</th>
+            <th>Detail</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let user of sortUsers">
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{ user.userId }}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{ user.username }}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{ user.userProfile.firstName }} {{ user.userProfile.lastName }}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{ user.userProfile.age }}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{ user.userRoleMappings.length }}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{ getPermissionCount(user.userRoleMappings) }}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">
+                <a href="/users/{{user.id}}">view</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 - Implement screen Users Detail 
 
 ![Example Users Detail screen](Interview-Test/Interview-Test.Client/src/assets/detail.png)
@@ -456,5 +486,50 @@ interface User {
   userProfile: UserProfile;
   userRoleMappings: MapRole[];
 }
+```
+``` html
+<a href="/users" style="font-size: 30px;">&larr; Back to Users</a>
+<h1>User Detail</h1>
+<section style="background-color: rgb(182, 182, 176);">
+    <h2>{{user?.username}}</h2>
+    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
+        <div style="font-size: 20px;"><b>ID:</b> {{user?.id}}</div>
+        <div style="font-size: 20px;"><b>UserId:</b> {{user?.userId}}</div>
+        <div style="font-size: 20px;"><b>Username:</b> {{user?.username}}</div>
+    </div>
+    <div style="font-size: 20px;"><b>Age: </b>{{user?.userProfile?.age === null ? 'N/A' : user?.userProfile?.age}}</div>
+</section>
+<h1 style="width: 90%; margin-left: auto; margin-right: auto;">Roles ({{user?.userRoleMappings?.length}})</h1>
+<table style="width: 90%; margin-left: auto; margin-right: auto;">
+    <thead style="text-align: left; background-color: rgb(96, 96, 93); color: white; font-size: 20px;">
+        <tr>
+            <th>#</th>
+            <th>Role ID</th>
+            <th>Role Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let user of user?.userRoleMappings; let iRole = index" style="border-bottom: 1px;">
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{iRole + 1}}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{user?.role?.roleId}}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{user?.role?.roleName}}</td>
+        </tr>
+    </tbody>
+</table>
+<h1 style="width: 90%; margin-left: auto; margin-right: auto;">Permissions ({{permissions?.length}})</h1>
+<table style="width: 90%; margin-left: auto; margin-right: auto;">
+    <thead style="text-align: left; background-color: rgb(96, 96, 93); color: white; font-size: 20px;">
+        <tr>
+            <th>#</th>
+            <th>Permission</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let permission of permissions; let iPermission = index">
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{iPermission + 1}}</td>
+            <td style="border-bottom: 1px solid rgb(231, 228, 228);">{{permission?.permission}}</td>
+        </tr>
+    </tbody>
+</table>
 ```
 - Connect data from API Gateway Ocelot.
