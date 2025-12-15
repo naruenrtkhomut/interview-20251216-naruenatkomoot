@@ -76,3 +76,4 @@ E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Intervie
 E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Api\obj\Debug\net8.0\Interview-Test.Api.genruntimeconfig.cache
 E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Api\obj\Debug\net8.0\ref\Interview-Test.Api.dll
 E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Api\obj\Debug\net8.0\Interview-Test.Api.sourcelink.json

@@ -12,3 +12,4 @@ E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Intervie
 E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.pdb
 E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.genruntimeconfig.cache
 E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\ref\Interview-Test.Infrastructure.dll
+E:\Project\Finkub test\20251214\Interview-Test-main\Interview-Test-main\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.sourcelink.json
