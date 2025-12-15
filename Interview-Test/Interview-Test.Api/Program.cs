@@ -15,7 +15,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 builder.Services.AddMvc(options => options.EnableEndpointRouting = false);
-var connection = "Server=localhost;Database=InterviewTestDb;User=sa;Password=@Passw0rd;Encrypt=True;TrustServerCertificate=True;";
+var connection = "Server=sqlserver;Database=InterviewTestDb;User=sa;Password=@Passw0rd;Encrypt=True;TrustServerCertificate=True;";
 builder.Services.AddDbContext<InterviewTestDbContext>(options =>
     {
         options.UseSqlServer(connection,

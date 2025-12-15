@@ -1,4 +1,4 @@
-﻿version: '3.4'
+﻿version: '3.8'
 
 services:
   sqlserver:
@@ -24,3 +24,13 @@ services:
       context: .
       dockerfile: Interview-Test.Api/Dockerfile
   
+  angular:
+    build:
+      context: .
+      dockerfile: Interview-Test.Client/Dockerfile
+    ports:
+      - "4200:4200"
+    environment:
+      - NODE_ENV=production
+    container_name: interview-test-client
+    restart: unless-stopped

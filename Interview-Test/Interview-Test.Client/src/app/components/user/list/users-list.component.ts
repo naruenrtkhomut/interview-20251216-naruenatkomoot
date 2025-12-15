@@ -20,7 +20,7 @@ export class UsersListComponent {
 
 
   loadUsers(): void {
-    this.http.get<User[]>("https://localhost:44307/api/User/GetUsers", {
+    this.http.get<User[]>("https://localhost:5000/api/User/GetUsers", {
       headers: {
         "x-api-key": "A6F9E3C2D7B81F4E0A9C5D6B2E1F8A7C4D0E9B6F5A3C8D2E1B7F9A4C6E0D5B8A1F2C9E7D6B4A3F5E0C8D2"
       }
