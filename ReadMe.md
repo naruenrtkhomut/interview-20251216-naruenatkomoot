@@ -248,6 +248,7 @@ public async Task<IActionResult> GetUserById([FromBody] UserModel user)
 to  forward the client request to `Interview-Test.Api(https://localhost:44307)` with using the domain `https://localhost:44375/gateway`
 
 # update program.cs for Cor, MiddleWare, JsonIgnore
+```csharp
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -288,7 +289,7 @@ builder.Services.AddCors(options =>
             .AllowAnyMethod();
     });
 });
-
+```
 
 var app = builder.Build();
 
